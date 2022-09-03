@@ -1,0 +1,5 @@
+# Ignore venv 
+web_map_env/*
+
+#Ignore map
+Map1.html
