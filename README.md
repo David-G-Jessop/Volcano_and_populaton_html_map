@@ -1,5 +1,5 @@
 # Web map showing US volcanoes and a global chloropleth map
-A basic web map showing the location of volcanos in the US and a chloropleth of lgobal population
+A basic web map showing the location of volcanos in the US and a chloropleth of global population
 
 ## Contents
 
