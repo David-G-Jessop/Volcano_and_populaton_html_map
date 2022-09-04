@@ -40,8 +40,7 @@ def height_color_mapping(elevation: float) -> str:
         return "darkred"
 
 
-# Create feature group for map
-
+# Create feature group for the population chloropleth
 fgp = folium.FeatureGroup(
     name="Population"
 )
@@ -65,7 +64,7 @@ fgp.add_child(
             }
     )
 )
-
+# Create a feature group for the volcanoes
 fgv = folium.FeatureGroup(
     name="Volcanoes in the USA"
 )
